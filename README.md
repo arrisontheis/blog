@@ -1,1 +1,1 @@
-# blog
+https://arrisontheis.github.io/blog/
